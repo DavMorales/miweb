@@ -1,1 +1,2 @@
 Mi Primer programa
+modificando mi archivo con gitignore
